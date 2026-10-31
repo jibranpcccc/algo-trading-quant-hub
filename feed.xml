@@ -4,10 +4,17 @@
     <title>Quantitative Finance &amp; Algo Trading Hub</title>
     <link>https://algo-trading-quant-hub.netlify.app/</link>
     <description>Verified community directory and updates.</description>
-    <lastBuildDate>Thu, 29 Oct 2026 06:04:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 06:56:31 GMT</lastBuildDate>
     <atom:link href="https://algo-trading-quant-hub.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-                                                                                                                                                                    <item>
+                                                                                                                                                                        <item>
+      <title>📅 Today's Fresh Pick: Hacker News Community (Forum)</title>
+      <link>https://news.ycombinator.com</link>
+      <guid isPermaLink="false">https://algo-trading-quant-hub.netlify.app/#algo-trading-quant-hub-forum-20261031-1-2026-10-31</guid>
+      <pubDate>Sat, 31 Oct 2026 06:56:31 GMT</pubDate>
+      <description>Newly verified community added to Quantitative Finance &amp; Algo Trading Hub: Y Combinator's flagship intellectual community discussing software engineering, science, and startup mechanics.</description>
+    </item>
+<item>
       <title>📅 Today's Fresh Pick: TechCrunch Official Channel (Telegram)</title>
       <link>https://t.me/techcrunch</link>
       <guid isPermaLink="false">https://algo-trading-quant-hub.netlify.app/#algo-trading-quant-hub-telegram-20261029-1-2026-10-29</guid>
@@ -174,13 +181,6 @@
       <guid isPermaLink="false">https://algo-trading-quant-hub.netlify.app/#algo-trading-quant-hub-reddit-20261001-1-2026-10-01</guid>
       <pubDate>Thu, 01 Oct 2026 07:55:35 GMT</pubDate>
       <description>Newly verified community added to Quantitative Finance &amp; Algo Trading Hub: Support/resistance zones, moving average confluence, RSI divergences, and candlestick price action.</description>
-    </item>
-<item>
-      <title>📅 Today's Fresh Pick: Swing Trading &amp; Trend Following (Reddit)</title>
-      <link>https://www.reddit.com/r/SwingTrading/</link>
-      <guid isPermaLink="false">https://algo-trading-quant-hub.netlify.app/#algo-trading-quant-hub-reddit-20260930-1-2026-09-30</guid>
-      <pubDate>Wed, 30 Sep 2026 06:18:22 GMT</pubDate>
-      <description>Newly verified community added to Quantitative Finance &amp; Algo Trading Hub: Multi-day trend following, Fibonacci retracements, daily support bounces, and position sizing.</description>
     </item>
   </channel>
 </rss>
